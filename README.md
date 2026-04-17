@@ -38,4 +38,4 @@ The framework includes a comprehensive backtesting engine that evaluates:
 - **GARCH forecasts** successfully anticipated the volatility spike in March 2020, providing a more realistic VaR estimate than historical or static methods.
 
 ---
-**Author:** Pau Vendrell – Mathematician & Statistician | FRM Candidate
+**Author:** Pau Vendrell
